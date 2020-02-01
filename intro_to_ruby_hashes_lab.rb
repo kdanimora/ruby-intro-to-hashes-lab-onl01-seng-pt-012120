@@ -1,6 +1,6 @@
 require "PRY"
 def new_hash {} 
-  binding.PRY
+
 end
 
 def actor = {name: "Dwayne The Rock Johnson"}
