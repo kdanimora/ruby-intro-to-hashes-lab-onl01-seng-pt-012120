@@ -1,4 +1,4 @@
-require "PRY"
+
 def new_hash 
   {} 
 end
