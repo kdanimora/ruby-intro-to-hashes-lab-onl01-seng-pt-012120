@@ -1,5 +1,5 @@
 require "PRY"
-def new_hash = {} 
+def new_hash  {} 
   binding.PRY
 end
 
